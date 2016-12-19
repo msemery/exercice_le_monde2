@@ -1,0 +1,102 @@
+/*Premier navigateur*/
+
+
+.container-fluid {
+
+}
+
+.menu1 {
+	height: 32px;
+	line-height: 32px;	
+	background-color: #000b1c;
+	color: white;
+}
+
+.menu1 select {
+	height: 32px;
+}
+
+.menu2 {
+	background-color: white;
+}
+
+.menu1 a {
+	color: white;
+	padding-right: 5px;
+}
+
+#disabledSelect {
+	background-color:	#000b1c;
+	color: white;
+}
+
+.background_yellow {
+	background-color: yellow;
+}
+
+
+
+/*Deuxième navigateur*/
+
+
+.menu2 {
+	background-color: white;
+	color: black;
+}
+
+
+/*Partie image*/
+
+.img {
+	background-color: white;
+	width: 700px;
+}
+
+/*Menu 3*/
+
+.navbar-default {
+	margin: 0px;
+}
+
+.menu3 a {
+	padding-right: 5px;
+	height: 32px;
+	line-height: 32px;	
+	color: black;
+}
+
+.cellule_jaune {
+	background-color: yellow;
+	height:50px;
+}
+
+
+/*contenu*/
+
+h3 {
+	color: #174da5;
+}
+
+h2 {
+	color: #174da5;
+}
+
+.container_vide {
+	background-color: #a7aaaf;
+	height: 2000px;
+	margin: 0px;
+}
+
+.nav_3 {
+	background-color: #000b1c;
+}
+
+.nav_3 a {
+	color: white;
+}
+
+.cellule_rouge {
+	background-color: red;
+	color: white;
+}
+
