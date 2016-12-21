@@ -31,7 +31,7 @@
 }
 
 .background_yellow {
-	background-color: yellow;
+	background-color: #ffc600;
 }
 
 
@@ -66,7 +66,7 @@
 }
 
 .cellule_jaune {
-	background-color: yellow;
+	background-color: #ffc600;
 	height:50px;
 }
 
@@ -100,3 +100,22 @@ h2 {
 	color: white;
 }
 
+.active {
+	background-color: red;
+}
+
+.text_blanc {
+	color: white;
+}
+
+.col-right {
+	padding: 5px;	
+}
+
+.col-white {
+	background-color: white;
+}
+
+.bg_bleu {
+	background-color: #a7aaaf;
+}
